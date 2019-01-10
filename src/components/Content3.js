@@ -5,7 +5,7 @@ const Content3 = () => {
         <div>
             <ul className="listContent">
                 <li>
-                    <h3>Title Text</h3>
+                    <h3 className="TagLine" >Title Text</h3>
                     <p>Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit,
                         sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna
                         aliquam erat volutpat. Ut ninja wisi enim ad minim veniam, quis
@@ -15,7 +15,7 @@ const Content3 = () => {
                     </p>
                 </li>
                 <li>
-                    <h3>Title Text</h3>
+                    <h3 className="TagLine" >Title Text</h3>
                     <p>Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit,
                         sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna
                         aliquam erat volutpat. Ut ninja wisi enim ad minim veniam, quis
@@ -25,7 +25,7 @@ const Content3 = () => {
                     </p>
                 </li>
                 <li>
-                    <h3>Title Text</h3>
+                    <h3 className="TagLine">Title Text</h3>
                     <p>Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit,
                         sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna
                         aliquam erat volutpat. Ut ninja wisi enim ad minim veniam, quis
